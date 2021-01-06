@@ -138,5 +138,24 @@ In the problem set and computer lab, we will practice with the R code introduced
 
 ***Lecture Notes & Computer Lab Material***
 
-See folder ["Class 5 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%204%20Material)
+See folder ["Class 5 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%205%20Material)
+
+
+
+### Class 6: Text Mining III - Topic Models
+
+In this class you will learn about topic model analysis, as well as its advantages and disadvantages and the various validation steps required. The lecture will also discuss the core functions from the quanteda and seededlda packages to perform topic model.
+
+In the problem set and computer lab, we will practice with the R code introduced in the lecture. We will also get our hands dirty by comparing and visualising the topics discussed by Starmer and Corbyn in their tweets.
+
+***Readings***
+
+* Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84.
+
+* Munzert et al. 2015 Automated Data Collection with R – Chapter section: 10.4     
+
+
+***Lecture Notes & Computer Lab Material***
+
+See folder ["Class 6 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%206%20Material)
 
