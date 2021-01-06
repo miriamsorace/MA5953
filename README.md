@@ -12,7 +12,7 @@ You will have to scrape tweets from 2 politicians of your choice and carry out e
 
 You need to have installed the most up-to-date versions of [R](https://www.r-project.org) and  [RStudio](https://rstudio.com/products/rstudio/download/)
 
-Prior knowledge of R is a must, make sure you understand the language basics (packages, objects/vectors, core functions and vector + data management operations), and that you know how to trouble-shoot errors and install packages.
+Some prior knowledge of R and [R Markdown](http://rmarkdown.rstudio.com) is a must, make sure you understand the language basics (packages, objects/vectors, core functions and vector + basic data management operations), and that you know how to trouble-shoot errors and install packages.
 
 􏰀**Introductory Resources - R **:
 
