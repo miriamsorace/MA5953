@@ -95,7 +95,7 @@ In the problem set and computer lab, we will practice with the R code introduced
 See folder ["Class 3 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%203%20Material)
 
 
-### Class 4: Text Mining - Text Pre-Processing and the Document-Term Matrix 
+### Class 4: Text Mining I - Text Pre-Processing and the Document-Term Matrix 
 
 This class will provide you with an overview of various text mining methods, from supervised to unsupervised ones, from classification to scaling ones. You will see some empirical applications of the various methods from the political science field. You will learn about corpora, tokens, stemming, stop-words, keywords-in-context, the td-idf measure, and - crucially - about the document-feature matrix (dfm) and the bag of words assumption. The lecture will also discuss the core functions from the quanteda package to clean and trim the dfm. 
 
@@ -115,5 +115,28 @@ In the problem set and computer lab, we will practice with the R code introduced
 
 ***Lecture Notes & Computer Lab Material***
 
-See folder ["Class 4 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%203%20Material)
+See folder ["Class 4 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%204%20Material)
+
+
+
+### Class 5: Text Mining II - Sentiment Analysis: Dictionaries and the Naïve Bayes Classifier
+
+In this class you will learn about dictionaries and about the Naïve Bayes (NB) classifier, their advantages and disadvantages. You will see some empirical applications from the political science field and learn about some of the most important existing dictionaries. You will learn how to build your own bespoke dictionary as well. The lecture will also discuss the core functions from the quanteda package to perform dictionary and NB classification.
+
+In the problem set and computer lab, we will practice with the R code introduced in the lecture. We will also get our hands dirty by comparing Starmer and Corbyn's sentiment towards immigrants. The group exercise will reproduce the entire code and will challenge you to apply the sentiment analysis on Starmer's and Corbyn's tweets on the European Union instead.
+
+
+***Readings***
+
+* Munzert et al. 2015 Automated Data Collection with R – Chapter 17
+
+
+***Additional Resources***
+
+* [Introduction to the Confusion Matrix](https://www.youtube.com/watch?v=wpp3VfzgNcI)
+* [Introduction to Precision, Recall and F1](https://www.youtube.com/watch?v=jJ7ff7Gcq34)
+
+***Lecture Notes & Computer Lab Material***
+
+See folder ["Class 5 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%204%20Material)
 
