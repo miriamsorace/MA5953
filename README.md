@@ -49,7 +49,7 @@ In the problem set and computer lab, we will practice with the Element Inspector
 
 *Lecture Notes & Computer Lab Material*
 
-See folder "Class 1 Material"
+See folder ["Class 1 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%201%20Material)
 
 
 
