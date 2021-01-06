@@ -31,7 +31,7 @@ The course will have weekly lectures and computer labs. The lecture will introdu
 
 ## Detailed Course Schedule
 
-**Class 1: Data Science – Data Collection Strategies & Primer on Web Technologies**
+###Class 1: Data Science – Data Collection Strategies & Primer on Web Technologies
 
 This class will introduce you to data science, best practices in data collection and management as well as the most important markup languages that form the building blocks of websites and web applications - i.e.  HTML, XML, and JSON. The class will introduce web scraping via an applied example on endangered cultural and natural sites. Data on such sites will be scraped from Wikipedia and then visualised using maps and histograms.
 
@@ -51,5 +51,26 @@ In the problem set and computer lab, we will practice with the Element Inspector
 
 See folder ["Class 1 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%201%20Material)
 
+
+
+###Class 2: Web Scraping & Regular Expressions
+
+This class will introduce you to webscraping from static webpages. Dynamic webpage scraping will also be briefly introduced. You will learn about node query scraping, scraping via regular expressions, and scraping via APIs. You will then learn how to parse webpages, scrape tables, texts and links using R. You will also learn how to loop over URL lists and/or lists of links to scrape multiple webpages at once. 
+
+In the problem set and computer lab, we will practice with the code introduced in the lecture and will do a practical exercise which will entail scraping and cleaning Covid data for several countries from the European Centre for Disease Prevention and Control. 
+
+
+*Readings*
+
+* Munzert et al. 2015 Automated Data Collection with R – Chapters 8 & 9
+
+*Additional Resources*
+
+* [Installing & Using the Selector GadgetLink](https://www.youtube.com/watch?v=oqNTfWrGdbk)
+* [What are APIs?](https://www.youtube.com/watch?v=OVvTv9Hy91Q)
+
+*Lecture Notes & Computer Lab Material*
+
+See folder ["Class 2 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%201%20Material)
 
 
