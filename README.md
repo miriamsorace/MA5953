@@ -24,4 +24,10 @@ Prior knowledge of R is a must, make sure you understand the language basics (pa
 
 **Course Structure**
 
-The course 
+The course will have weekly lectures and computer labs. The lecture will introduce the core concepts and the relevant R code for the week whereas the computer lab provides an opportunity for students to flag issues / ask questions about the lecture, the code, and the problem set. It is highly recommended that you attend the lecture/watch the lecture videos for the relevant week and practice with the problem set *before* the computer lab, to exploit the Q&A session to the fullest. The lab will also feature applied group work exercises.
+
+
+## Detailed Course Schedule
+
+
+
