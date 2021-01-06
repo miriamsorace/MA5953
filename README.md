@@ -38,16 +38,16 @@ This class will introduce you to data science, best practices in data collection
 In the problem set and computer lab, we will practice with the Element Inspector and HTML tags. We will manually reproduce a webpage using HTML tags and also reproduce the endangered sites analysis from the lecture. 
 
 
-*Readings*
+***Readings***
 
 * Munzert et al. 2015 Automated Data Collection with R – Chapters 2 & 3 & 16.4
 
-*Additional Resources*
+***Additional Resources***
 
 * [HTML Explained in 4 Minutes (by 24G)](https://www.youtube.com/watch?v=ofox_6_-gGo)
 * [HTML, CSS, JavaScript Explained](https://www.youtube.com/watch?v=gT0Lh1eYk78&feature=youtu.be)
 
-*Lecture Notes & Computer Lab Material*
+***Lecture Notes & Computer Lab Material***
 
 See folder ["Class 1 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%201%20Material)
 
@@ -71,6 +71,6 @@ In the problem set and computer lab, we will practice with the code introduced i
 
 *Lecture Notes & Computer Lab Material*
 
-See folder ["Class 2 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%201%20Material)
+See folder ["Class 2 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%202%20Material)
 
 
