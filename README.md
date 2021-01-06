@@ -92,6 +92,28 @@ In the problem set and computer lab, we will practice with the R code introduced
 
 ***Lecture Notes & Computer Lab Material***
 
-See folder ["Class 3 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%202%20Material)
+See folder ["Class 3 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%203%20Material)
 
+
+### Class 4: Text Mining - Text Pre-Processing and the Document-Term Matrix 
+
+This class will provide you with an overview of various text mining methods, from supervised to unsupervised ones, from classification to scaling ones. You will see some empirical applications of the various methods from the political science field. You will learn about corpora, tokens, stemming, stop-words, keywords-in-context, the td-idf measure, and - crucially - about the document-feature matrix (dfm) and the bag of words assumption. The lecture will also discuss the core functions from the quanteda package to clean and trim the dfm. 
+
+In the problem set and computer lab, we will practice with the R code introduced in the lecture. We will also get our hands dirty by summarising the corpuses of Biden and Trump tweets and by comparing their top words. The group exercise will reproduce the entire code using tweets from Labour and Conservative MPs.
+
+
+***Readings***
+
+* Grimmer, Justin and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21(3):267–297.
+
+* Munzert et al. 2015 Automated Data Collection with R – Chapter sections: 10.1 & 10.2 & 10.3
+
+***Additional Resources***
+
+* [Ken Benoit Interview on Converting Texts to Numbers](https://www.youtube.com/watch?v=9B14nsEIsUs)
+* [Ken Benoit - Quanteda Tutorial](https://www.youtube.com/watch?v=UAACR3OAvxM)
+
+***Lecture Notes & Computer Lab Material***
+
+See folder ["Class 4 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%203%20Material)
 
