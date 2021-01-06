@@ -1,4 +1,4 @@
-# MA5953 - Creating Your Own Data Web Scraping &amp; Text Mining
+# MA5953 - Creating Your Own Data: Web Scraping &amp; Text Mining
 
 The course provides an introduction to different methods on how to create data. Specifically, the module will teach you how to scrape data from the web and conduct text analysis using some of the most common methods of supervised and unsupervised classification. 
 
