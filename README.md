@@ -31,7 +31,7 @@ The course will have weekly lectures and computer labs. The lecture will introdu
 
 ## Detailed Course Schedule
 
-###Class 1: Data Science – Data Collection Strategies & Primer on Web Technologies
+### Class 1: Data Science – Data Collection Strategies & Primer on Web Technologies
 
 This class will introduce you to data science, best practices in data collection and management as well as the most important markup languages that form the building blocks of websites and web applications - i.e.  HTML, XML, and JSON. The class will introduce web scraping via an applied example on endangered cultural and natural sites. Data on such sites will be scraped from Wikipedia and then visualised using maps and histograms.
 
@@ -53,7 +53,7 @@ See folder ["Class 1 Material"](https://github.com/miriamsorace/MA5953/tree/main
 
 
 
-###Class 2: Web Scraping & Regular Expressions
+### Class 2: Web Scraping & Regular Expressions
 
 This class will introduce you to webscraping from static webpages. Dynamic webpage scraping will also be briefly introduced. You will learn about node query scraping, scraping via regular expressions, and scraping via APIs. You will then learn how to parse webpages, scrape tables, texts and links using R. You will also learn how to loop over URL lists and/or lists of links to scrape multiple webpages at once. 
 
