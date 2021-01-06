@@ -6,7 +6,7 @@ The course provides an introduction to different methods on how to create data. 
 
 ### Assessment
 
-You will have to scrape tweets from 2 politicians of your choice and carry out either a sentiment analysis or a topic model analysis. The 1,000 words report will include descriptives of the text data scraped, explanation of the text mining method chosen, and a presentation of the core results. You will need to submit your R script in addition (the R script does not count towards the word limit). 
+You will have to scrape tweets from 2 politicians of your choice and carry out either a sentiment analysis or a topic model analysis, on the basis of a research question of your choosing. The 1,000 words report will include (a) a section describing/justifying the choice of research question and describing the text data scraped; (b) a section where the text mining method is presented, and (c) a section where the results from the comparison are presented (with visualisations and/or numerical summaries). You will need to submit your R script together with the report (the R script does not count towards the word limit). 
 
 ### Requirements
 
@@ -35,7 +35,7 @@ The course will have weekly lectures and computer labs. The lecture will introdu
 
 This class will introduce you to data science, best practices in data collection and management as well as the most important markup languages that form the building blocks of websites and web applications - i.e.  HTML, XML, and JSON. The class will introduce web scraping via an applied example on endangered cultural and natural sites. Data on such sites will be scraped from Wikipedia and then visualised using maps and histograms.
 
-In the problem set and computer lab, we will practice with the Element Inspector and HTML tags. We will manually reproduce a webpage using HTML tags and also reproduce the endangered sites analysis from the lecture. 
+In the problem set and computer lab, we will practice with webpage analysis by using the Element Inspector. We will reinforce our knowledge of HTML tags by manually reproducing a webpage using such tags. We will also reproduce the endangered sites analysis from the lecture. 
 
 
 ***Readings***
@@ -57,20 +57,41 @@ See folder ["Class 1 Material"](https://github.com/miriamsorace/MA5953/tree/main
 
 This class will introduce you to webscraping from static webpages. Dynamic webpage scraping will also be briefly introduced. You will learn about node query scraping, scraping via regular expressions, and scraping via APIs. You will then learn how to parse webpages, scrape tables, texts and links using R. You will also learn how to loop over URL lists and/or lists of links to scrape multiple webpages at once. 
 
-In the problem set and computer lab, we will practice with the code introduced in the lecture and will do a practical exercise which will entail scraping and cleaning Covid data for several countries from the European Centre for Disease Prevention and Control. 
+In the problem set and computer lab, we will practice with the R code introduced in the lecture and will do a practical exercise which will entail scraping and cleaning Covid data for several countries from the European Centre for Disease Prevention and Control. 
 
 
-*Readings*
+***Readings***
 
 * Munzert et al. 2015 Automated Data Collection with R – Chapters 8 & 9
 
-*Additional Resources*
+***Additional Resources***
 
 * [Installing & Using the Selector GadgetLink](https://www.youtube.com/watch?v=oqNTfWrGdbk)
 * [What are APIs?](https://www.youtube.com/watch?v=OVvTv9Hy91Q)
 
-*Lecture Notes & Computer Lab Material*
+***Lecture Notes & Computer Lab Material***
 
 See folder ["Class 2 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%202%20Material)
+
+
+
+### Class 3: Scraping Social Media Data
+
+This class will introduce you to webscraping in Twitter. You will see some empirical applications of Twitter data from the political science, finance and public health fields. You will learn about the functioning of APIs more in depth, and how to gain access to Twitter rest and streaming APIs. The class will introduce the most important R packages and functions to scrape and clean Twitter data. 
+
+In the problem set and computer lab, we will practice with the R code introduced in the lecture in order to scrape from the Twitter rest and streaming APIs. We will also do practical exercises and search for Tweets on Brexit and on the 2020 Presidential Elections. We will also look at Obama's tweets and introduce the quanteda text analysis package by building our very first wordcloud. 
+
+
+***Readings***
+
+* Munzert et al. 2015 Automated Data Collection with R – Chapter sections: 9.1.10, 9.2.3 & Chapter 14
+
+***Additional Resources***
+
+* [Steps to Access the Twitter API](https://www.youtube.com/watch?v=PqqXjwoDQiY)
+
+***Lecture Notes & Computer Lab Material***
+
+See folder ["Class 3 Material"](https://github.com/miriamsorace/MA5953/tree/main/Class%202%20Material)
 
 
